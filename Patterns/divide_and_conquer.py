@@ -21,6 +21,7 @@ arr3 = [1, 2, 5, 13, 15, 16, 24, 28, 29]  # -1
 arr4 = [18, 24, 28, 29]  # 0
 arr5 = [1, 2, 5, 13, 15, 16, 18]  # 6
 target = 18
+
 print(binary_search(arr1, target))
 print(binary_search(arr2, target))
 print(binary_search(arr3, target))
