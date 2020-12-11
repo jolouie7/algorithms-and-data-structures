@@ -27,3 +27,5 @@ print(binary_search(arr2, target))
 print(binary_search(arr3, target))
 print(binary_search(arr4, target))
 print(binary_search(arr5, target))
+
+# NOTES:
