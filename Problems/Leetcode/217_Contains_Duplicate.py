@@ -29,3 +29,6 @@ class Solution:
                 seen.add(ele)
         # return false when we finish going through entire list
         return False
+
+# Time: o(n)
+# Space: o(n)
